@@ -23,6 +23,11 @@ Run the app:
 
 streamlit run app.py
 
-## App Screenshot
+## App Screenshots
 
-![EDA App Screenshot](Screenshot.png)
+### Upload and Dataset Preview
+![Upload Preview](Screenshot.png)
+
+### Scatter Plot and Correlation Output
+![Scatter Plot](app-screenshot.png)
+
