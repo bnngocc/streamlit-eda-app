@@ -26,7 +26,7 @@ streamlit run app.py
 ## App Screenshots
 
 ### Upload and Dataset Preview
-![Upload Preview](Screenshot.png)
+![Upload Preview](Screenshot .png)
 
 ### Scatter Plot and Correlation Output
 ![Scatter Plot](app-screenshot.png)
